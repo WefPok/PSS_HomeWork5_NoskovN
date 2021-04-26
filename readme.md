@@ -143,12 +143,12 @@ Business | -|+
 # Usage
 Main contains the tests and samples of usage of the project components.
 
-###Test 1
+### Test 1
 New car is created.
 Admin looks for new cars to validate
 Admin validates car from queue
 
-###Test 2
+### Test 2
 New order is created
 Passenger accepts the ride
 Driver looks for available orders
@@ -157,20 +157,20 @@ Passenger gets position during the ride
 Driver completes the order
 Passenger queries order history
 
-###Test 3
+### Test 3
 Passenger creates order
 Passenger declines order for some reason
 
-###Test 4
+### Test 4
 Driver looks for available orders, but there is no available orders currently
 
-###Test 5
+### Test 5
 Passenger adds a payment method
 Passenger checks payment methods from second device
 
-###Test 6
+### Test 6
 Admin looks for all drivers
 Admin blocks one of the drivers
 
-###Test 7
+### Test 7
 Driver, who is not logged in tries to look for orders
