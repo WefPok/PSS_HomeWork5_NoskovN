@@ -101,7 +101,7 @@ Other fields are the same as in `Passenger` class.
 
 Has only three fields - `id, login and password`
 
-#Utility classes
+# Utility classes
 ## Car
 Class car contains info about the car, such as model, number, color, type, and etc.
 
@@ -126,7 +126,7 @@ Implemented using 5 txt files:
 * Orders.txt - stores all the orders which are currently wasn't accepted by drivers yet
 * CarQueue.txt - cars not yet validated by admins
 
-###Car types:
+### Car types:
 
 In ascending order:
 
