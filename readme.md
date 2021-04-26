@@ -23,7 +23,7 @@ Project has three main modules:
 
 `Admin.h, Passenger.h, Driver.h` are the classes which contain info about the user - password, login, name, history and etc.
 ___
-#Gateways
+# Gateways
 ## Passenger Gateway
 
 Methods in passenger gateway:
