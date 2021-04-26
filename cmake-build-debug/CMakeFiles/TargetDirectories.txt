@@ -1,0 +1,3 @@
+C:/Users/nikno/CLionProjects/PSS_HomeWork5_NoskovN/cmake-build-debug/CMakeFiles/PSS_HomeWork5_NoskovN.dir
+C:/Users/nikno/CLionProjects/PSS_HomeWork5_NoskovN/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nikno/CLionProjects/PSS_HomeWork5_NoskovN/cmake-build-debug/CMakeFiles/rebuild_cache.dir

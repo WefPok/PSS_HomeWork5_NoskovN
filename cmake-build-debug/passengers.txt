@@ -1,0 +1,51 @@
+2
+1 0
+Niki4 qwerty
+Nikita
+4.85
+13
+address1 address2 1 12.99 55 1001
+address2 address3 2 15.99 26 1001
+address3 address1 3 18.99 335 1001
+add add2 1 36 30 1001
+add add2 1 108 120 1001
+add add2 1 402.6 122 1001
+from to 2 243.6 58 1001
+from to 2 156 26 1001
+from to 2 407.4 97 1001
+from to 1 333.6 139 1002
+Arena Innopolis 3 612 136 1002
+fromAddress toAddress 1 126.9 141 1002
+fromAddress toAddress 3 387 86 1002
+4
+Cash
+1234*999
+visa*9999
+visa*9999
+2
+address1
+address2
+1
+0
+fromAddress toAddress 3 1053 117 0
+fromAddress toAddress 3 387 86 0
+
+2 0
+Asian qwerty123
+Aisen
+4.85
+3
+address1 address2 4 22.99 85 1002
+address4 address3 2 15.99 41 1002
+address3 address2 2 14.59 76 1002
+2
+Cash
+1234*999
+2
+address1
+address2
+0
+0
+0 0 0 0 0 0
+0 0 0 0 0 0
+
